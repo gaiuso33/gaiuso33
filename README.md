@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @gaiuso33
-- 👀 I’m interested in web development, data analysis and visualization...
-- 🌱 I’m currently learning python and fullstack web development(HTML, CSS, js and React)...
-- 💞️ I’m looking to collaborate on projects relating to my field
-- 📫 How to reach me 📧:oluwolegaiusayokunle@gmail.com...
-- 😄 Pronouns: He/Him...
-- ⚡ Fun fact: ...i am a student
+- 👋 Hi, I’m gaiuso
+🎓 I'm a final-year Statistics and 300-level Computer Science student in Nigeria, building skills in data analysis and web development.
 
-<!---
-gaiuso33/gaiuso33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ I'm learning:
+- Python (for data and automation)
+- HTML, CSS, JavaScript (for web development)
+- SQL and Excel (for freelancing and analysis)
+
+🚀 My goals:
+- Master my courses by building real-world projects
+- Earn income via freelancing and data gigs
+- Grow a solid career in tech and data
+
+📌 Connect with me on [LinkedIn](https://linkedin.com/in/oluwole-gaius-962342260) 
